@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-09",
+  "workouts": [
+    {
+      "id": "upper-body-a",
+      "name": "Upper Body A",
+      "description": "Chest, shoulders & triceps",
+      "exercises": [
+        { "name": "Dumbbell Bench Press", "sets": 3, "reps": 12, "weight": 40, "restSeconds": 90 },
+        { "name": "Dumbbell Shoulder Press", "sets": 3, "reps": 10, "weight": 30, "restSeconds": 90 },
+        { "name": "Dumbbell Lateral Raises", "sets": 3, "reps": 15, "weight": 15, "restSeconds": 60 },
+        { "name": "Dumbbell Flyes", "sets": 3, "reps": 12, "weight": 25, "restSeconds": 60 },
+        { "name": "Overhead Tricep Extension", "sets": 3, "reps": 12, "weight": 25, "restSeconds": 60 },
+        { "name": "Tricep Kickbacks", "sets": 3, "reps": 12, "weight": 15, "restSeconds": 60 }
+      ]
+    },
+    {
+      "id": "lower-body-a",
+      "name": "Lower Body A",
+      "description": "Squats, lunges & RDLs",
+      "exercises": [
+        { "name": "Goblet Squats", "sets": 3, "reps": 12, "weight": 40, "restSeconds": 90 },
+        { "name": "Dumbbell Romanian Deadlifts", "sets": 3, "reps": 10, "weight": 35, "restSeconds": 90 },
+        { "name": "Walking Lunges", "sets": 3, "reps": 12, "weight": 25, "restSeconds": 90 },
+        { "name": "Dumbbell Step-Ups", "sets": 3, "reps": 10, "weight": 25, "restSeconds": 60 },
+        { "name": "Dumbbell Calf Raises", "sets": 3, "reps": 15, "weight": 30, "restSeconds": 45 },
+        { "name": "Sumo Squats", "sets": 3, "reps": 12, "weight": 35, "restSeconds": 60 }
+      ]
+    },
+    {
+      "id": "core-a",
+      "name": "Core A",
+      "description": "Planks, crunches & twists",
+      "exercises": [
+        { "name": "Plank Hold", "sets": 3, "reps": 45, "repLabel": "seconds", "weight": 0, "restSeconds": 45 },
+        { "name": "Bicycle Crunches", "sets": 3, "reps": 20, "weight": 0, "restSeconds": 45 },
+        { "name": "Russian Twists", "sets": 3, "reps": 20, "weight": 15, "restSeconds": 45 },
+        { "name": "Dead Bugs", "sets": 3, "reps": 12, "weight": 0, "restSeconds": 45 },
+        { "name": "Side Plank Hold", "sets": 2, "reps": 30, "repLabel": "seconds per side", "weight": 0, "restSeconds": 30 },
+        { "name": "Leg Raises", "sets": 3, "reps": 15, "weight": 0, "restSeconds": 45 }
+      ]
+    }
+  ]
+}
