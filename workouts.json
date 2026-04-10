@@ -1,7 +1,16 @@
 {
-  "version": 1,
-  "updatedAt": "2026-04-09",
+  "version": 2,
+  "updatedAt": "2026-04-10",
   "workouts": [
+    {
+      "id": "pushups-situps",
+      "name": "Push-Ups & Sit-Ups",
+      "description": "Quick cloud-sync test",
+      "exercises": [
+        { "name": "Push-Ups", "sets": 3, "reps": 15, "weight": 0, "restSeconds": 60 },
+        { "name": "Sit-Ups", "sets": 3, "reps": 20, "weight": 0, "restSeconds": 60 }
+      ]
+    },
     {
       "id": "upper-body-a",
       "name": "Upper Body A",
