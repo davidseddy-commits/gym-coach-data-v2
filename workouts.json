@@ -1,7 +1,26 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-04-10",
   "workouts": [
+    {
+      "id": "full-body-bodyweight",
+      "name": "Full Body Bodyweight",
+      "description": "No equipment, ~40-45 min full body",
+      "exercises": [
+        { "name": "Jumping Jacks", "sets": 3, "reps": 45, "repLabel": "seconds", "weight": 0, "restSeconds": 45 },
+        { "name": "Bodyweight Squats", "sets": 3, "reps": 20, "weight": 0, "restSeconds": 60 },
+        { "name": "Push-Ups", "sets": 3, "reps": 15, "weight": 0, "restSeconds": 60 },
+        { "name": "Reverse Lunges", "sets": 3, "reps": 20, "weight": 0, "restSeconds": 60 },
+        { "name": "Pike Push-Ups", "sets": 3, "reps": 10, "weight": 0, "restSeconds": 60 },
+        { "name": "Glute Bridges", "sets": 3, "reps": 20, "weight": 0, "restSeconds": 60 },
+        { "name": "Mountain Climbers", "sets": 3, "reps": 30, "repLabel": "seconds", "weight": 0, "restSeconds": 60 },
+        { "name": "Tricep Dips", "sets": 3, "reps": 12, "weight": 0, "restSeconds": 60 },
+        { "name": "Wall Sit", "sets": 3, "reps": 45, "repLabel": "seconds", "weight": 0, "restSeconds": 60 },
+        { "name": "Plank Hold", "sets": 3, "reps": 45, "repLabel": "seconds", "weight": 0, "restSeconds": 45 },
+        { "name": "Bicycle Crunches", "sets": 3, "reps": 15, "weight": 0, "restSeconds": 45 },
+        { "name": "Burpees", "sets": 3, "reps": 8, "weight": 0, "restSeconds": 60 }
+      ]
+    },
     {
       "id": "pushups-situps",
       "name": "Push-Ups & Sit-Ups",
