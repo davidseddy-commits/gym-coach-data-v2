@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-04-10",
+  "version": 4,
+  "updatedAt": "2026-05-08",
   "workouts": [
     {
       "id": "full-body-bodyweight",
@@ -35,12 +35,12 @@
       "name": "Upper Body A",
       "description": "Chest, shoulders & triceps",
       "exercises": [
-        { "name": "Dumbbell Bench Press", "sets": 3, "reps": 12, "weight": 40, "restSeconds": 90 },
-        { "name": "Dumbbell Shoulder Press", "sets": 3, "reps": 10, "weight": 30, "restSeconds": 90 },
-        { "name": "Dumbbell Lateral Raises", "sets": 3, "reps": 15, "weight": 15, "restSeconds": 60 },
-        { "name": "Dumbbell Flyes", "sets": 3, "reps": 12, "weight": 25, "restSeconds": 60 },
-        { "name": "Overhead Tricep Extension", "sets": 3, "reps": 12, "weight": 25, "restSeconds": 60 },
-        { "name": "Tricep Kickbacks", "sets": 3, "reps": 12, "weight": 15, "restSeconds": 60 }
+        { "name": "Dumbbell Bench Press", "sets": 3, "reps": 12, "weight": 30, "restSeconds": 90 },
+        { "name": "Dumbbell Shoulder Press", "sets": 3, "reps": 10, "weight": 15, "restSeconds": 90 },
+        { "name": "Dumbbell Lateral Raises", "sets": 3, "reps": 12, "weight": 10, "restSeconds": 60 },
+        { "name": "Dumbbell Flyes", "sets": 3, "reps": 10, "weight": 25, "restSeconds": 60 },
+        { "name": "Overhead Tricep Extension", "sets": 3, "reps": 10, "weight": 25, "restSeconds": 60 },
+        { "name": "Tricep Kickbacks", "sets": 3, "reps": 10, "weight": 15, "restSeconds": 60 }
       ]
     },
     {
